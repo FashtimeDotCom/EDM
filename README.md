@@ -10,3 +10,5 @@ EDM营销：全称Email Direct Marketing，即电子邮件营销。企业可以�
 >打广告
 
 >刷流量
+
+具体详见pdf文档
